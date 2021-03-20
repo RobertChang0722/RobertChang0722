@@ -3,6 +3,7 @@
 - 👀 I’m currently learning HTML / CSS / Git
 - 🤣 I’m looking to collaborate on something I don't know
 - 🤪 How to reach me ? Just leave some comment !
+- 👀 Find someone play bass!
 
 <!---
 Robeeerto/Robeeerto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
