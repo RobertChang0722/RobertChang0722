@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeeerto" alt="robeeerto" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeeerto&exclude_repo=chatroom,Uchef,shoppingcart-rails,hotwire_test,RTIX,Baseball_Dog,Task_Manage_System,Neovim_setting,Easy_ship_challenges-Robert-,blog" alt="robeeerto" />
 </p>
 
 <p>
