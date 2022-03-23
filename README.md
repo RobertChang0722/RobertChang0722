@@ -42,11 +42,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robeeerto&show_icons=true&locale=en" alt="robeeerto" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeeerto" alt="robeeerto" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robeeerto&show_icons=true&locale=en" alt="robeeerto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robeeerto&show_icons=true&locale=en&theme=dark&count_private=true" alt="robeeerto" />
 </p>
 
 <p>
