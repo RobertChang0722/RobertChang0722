@@ -1,69 +1,42 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate Rails developer from Taiwan</h3>
+<h1 align="center">
+  <b>Robert Chang</b>
+</h1>
 
-- 🔭 I’m currently working on **5xCampus**
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, Docker**
-- 📝 I regularly write articles on [https://robeeerto.tw/](https://robeeerto.tw/)
-- 📫 How to reach me **fishppm0212@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/fishppm0212" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkbruce" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.ruby-lang.org/zh_tw" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> 
-  </a> 
-  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Rails-CC0000?logo=RubyonRails&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=white" />
+</div>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeeerto&exclude_repo=chatroom,Uchef,shoppingcart-rails,hotwire_test,RTIX,Baseball_Dog,Task_Manage_System,Neovim_setting,Easy_ship_challenges-Robert-,blog" alt="robeeerto" />
+<div align="center">
+Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan. 
+</div>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robeeerto&show_icons=true&locale=en&theme=dark&count_private=true" alt="robeeerto" />
+<div align="center">
+🌱 I’m currently learning Docker and Rust to imporve myself.
+</div>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robeeerto&" alt="robeeerto" />
+<div align="center">
+  📫 How to reach me <b>robertchang0722@gmail.com</b>
+</div>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=robeeerto&label=Profile%20views&color=0e75b6&style=flat" alt="robeeerto" />
-</p>
+## My Statistics
 
+<br/>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robeeerto" alt="robeeerto" /></a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/fishppm0212" target="blank">
-    <img src="https://img.shields.io/twitter/follow/robeeerto?logo=twitter&style=for-the-badge" alt="robeeerto" />
+  <a href="https://robeeerto.tw/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Robeeerto&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Robeeerto&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<br>
 
+[![Robeeerto's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Robeeerto&custom_title=Robert%20Chang's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://robeeerto.tw)
