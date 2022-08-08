@@ -28,7 +28,9 @@ Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan.
 </div>
 </p>
 
-## My Statistics
+<h2 align="center">
+  <b>My Statistics</b>
+</h2>
 
 <br/>
 <p align="left">
