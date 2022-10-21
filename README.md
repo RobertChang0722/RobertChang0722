@@ -35,7 +35,7 @@ Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan.
 <br/>
 <p align="left">
   <a href="https://robeeerto.tw/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Robeeerto&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Robeeerto&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Robeeerto&theme=gruvbox&hide_border=true" />
   </a>
 </p>
