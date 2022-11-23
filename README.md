@@ -18,7 +18,7 @@ Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan.
 
 <p>
 <div align="center">
-🌱 I’m currently learning Docker and Rust to imporve myself.
+🌱 I’m currently learning Docker to imporve myself.
 </div>
 </p>
 
