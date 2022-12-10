@@ -27,11 +27,3 @@ Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan.
   📫 How to reach me <b>robertchang0722@gmail.com</b>
 </div>
 </p>
-
-<h2 align="center">
-  <b>My Statistics</b>
-</h2>
-
-<br/>
-
-[![Robeeerto's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Robeeerto&custom_title=Robert%20Chang's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://robeeerto.tw)
