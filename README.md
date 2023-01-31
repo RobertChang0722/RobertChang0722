@@ -12,13 +12,7 @@
 
 <p>
 <div align="center">
-Heya! I'm Robert Chang, Rails Developer living in Taipei, Taiwan. 
-</div>
-</p>
-
-<p>
-<div align="center">
-🌱 I’m currently learning Docker to imporve myself.
+Yo! I'm Robert Chang, Rails Developer living in Taipei, Taiwan. 
 </div>
 </p>
 
