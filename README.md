@@ -12,7 +12,7 @@
 
 <p>
 <div align="center">
-Yo! I'm Robert Chang, Rails Developer living in Taipei, Taiwan. 
+Hi! I'm Robert Chang, Software Engineer living in Taipei, Taiwan. 
 </div>
 </p>
 
